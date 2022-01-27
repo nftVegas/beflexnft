@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4C282A5cd0acAca850B2761bde3344DfEe78965b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4C282A5cd0acAca850B2761bde3344DfEe78965b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "BeFlex",
+  "SYMBOL": "BFLX",
+  "MAX_SUPPLY": 1888,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/beflex",
+  "SHOW_BACKGROUND": true
+}
